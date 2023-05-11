@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quantum Assignment</string>
+
+    <string name="facebook_app_id">827108915223296</string>
+    <string name="fb_login_protocol_scheme">fb827108915223296</string>
+    <string name="facebook_client_token">b755b4e933db21ae23bdebe7f8c7490f</string>
+
+
+</resources>
